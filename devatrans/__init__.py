@@ -1,2 +1,2 @@
 from .scheme import Scheme
-from .devatrans import DevaTrans()
+from .devatrans import DevaTrans
